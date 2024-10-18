@@ -1,0 +1,7 @@
+.icon {
+  background-color: transparent !important;
+  cursor: pointer;
+  width: 50px !important;
+  height: 50px !important;
+  color: firebrick;
+}
